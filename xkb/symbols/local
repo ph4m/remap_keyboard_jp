@@ -1,3 +1,7 @@
 xkb_symbols "local" {
-    key <MHK>  {	[ Alt_L	]	};
+    key <HEN>  { [ Return ] };
+    key <HIR>  { [ Delete ] };
+    key <MHK>  { [ Alt_L ] };
+    key <CAPS> { [ Escape ] };
+    key <LALT>  { [ BackSpace ] };
 };

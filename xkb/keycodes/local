@@ -1,3 +1,5 @@
 xkb_keycodes {
+    <HEN> = 100; // Henkan
+    <HIR> = 101; // Hiragana-Katakana
     <MHK> = 102; // Muhenkan
 };
